@@ -18,12 +18,12 @@ Desarrolle una  Api-rest, bajo los siguientes requerimientos, en el lenguaje de 
 ### Proyecto Unsplash-image
 
 Historias de usuario: (35 pts)
-[img](portada1.PNG)
-[img](portada2.PNG)
+![img](portada1.PNG)
+![img](portada2.PNG)
 - Puedo registrarme con un correo electronico en la plataforma.
-[img]()
+![img](signup.PNG)
 - Para ingresar a la platforma debo ingresar mi correo y contrasena.
-[img](signin.PNG)
+![img](signin.PNG)
 - Puedo agregar una nueva foto a mi coleccion de imagenes. 
 - Puedo ver una lista de mis fotografias.
 - Puedo ver una lista de fotografias recientes (ultimos 5)    
@@ -33,8 +33,8 @@ Historias de usuario: (35 pts)
 - Todas mis operaciones debe estar protegidas(utilizar jwt).
 - Mi contrasena es segura(Tiene mayuscula, numero, longitu mayor a 8 caracteres,
 y un caracter especial)
-[img](password1.PNG)
-[img](password2.PNG)
+![img](password1.PNG)
+![img](password2.PNG)
 
 Historias extras: (15 pts extras)
 - Cuando elimino una imagen, puedo introducir mi contraseña.
