@@ -20,7 +20,7 @@ Desarrolle una  Api-rest, bajo los siguientes requerimientos, en el lenguaje de 
 Historias de usuario: (35 pts)
 ![img](portada1.PNG)
 ![img](portada2.PNG)
-![img](database.PNG)
+![img](database1.PNG)
 - Puedo registrarme con un correo electronico en la plataforma.
 ![img](signup.PNG)
 - Para ingresar a la platforma debo ingresar mi correo y contrasena.
