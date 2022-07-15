@@ -201,10 +201,10 @@ paths:
         content:
           application/json:
             schema:
-              $ref: '#/components/schemas/Song'
+              $ref: '#/components/schemas/Photo'
           application/xml:
             schema:
-              $ref: '#/components/schemas/Song'
+              $ref: '#/components/schemas/Photo'
         required: true
       responses:
         200:
